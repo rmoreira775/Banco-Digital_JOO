@@ -1,17 +1,17 @@
-Banco Digital em Java - Projeto Orientado a Objetos
+💻Banco Digital em Java - Projeto Orientado a Objetos
 Descrição
 
 Projeto prático para reforçar os conceitos de Programação Orientada a Objetos (POO) em Java. Este sistema simula um banco digital com as principais funcionalidades básicas de uma conta bancária, contemplando os pilares da orientação a objetos:
 
-Abstração: Classes representam entidades do domínio bancário (Conta, Cliente, Banco).
+👍 Abstração: Classes representam entidades do domínio bancário (Conta, Cliente, Banco).
 
-Encapsulamento: Atributos privados com acesso controlado via métodos públicos.
+👍 Encapsulamento: Atributos privados com acesso controlado via métodos públicos.
 
-Herança: Especialização de contas através das classes ContaCorrente e ContaPoupanca.
+👍 Herança: Especialização de contas através das classes ContaCorrente e ContaPoupanca.
 
-Polimorfismo: Uso de referências genéricas para manipular diferentes tipos de contas.
+👍 Polimorfismo: Uso de referências genéricas para manipular diferentes tipos de contas.
 
-Funcionalidades
+🛠 Funcionalidades
 
 Criar clientes e associar contas (corrente e poupança).
 
